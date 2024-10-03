@@ -1,0 +1,25 @@
+Date: Thu, 03 Oct 2024 17:44:42 +0000
+MD5Sum:
+ 8020ec790645cc89b1301f55a9cb5813               38 Release
+ bc6f80d4efc90fecd07b6162de4d271b              505 main/a/armangrewal007/binary-amd64/Packages
+ 0ed6a51dda0025103fc75039baeac787              357 main/a/armangrewal007/binary-amd64/Packages.gz
+ 780d48d441034a9c1772ecc0f61c0a49              505 main/a/armangrewal007/binary-arm64/Packages
+ 54f833caf17e1b9fc1fc457dca1466ff              366 main/a/armangrewal007/binary-arm64/Packages.gz
+SHA1:
+ 033c41dd9bcc369766421c72aea14eb4124a6d4e               38 Release
+ 50c064436b21523ecf5e1a757f445bc5c2b0d036              505 main/a/armangrewal007/binary-amd64/Packages
+ 071f23601592968979597e00f502408b2b7e4f8b              357 main/a/armangrewal007/binary-amd64/Packages.gz
+ f192ac88a12b26c8939e767bb7df03222fbf00be              505 main/a/armangrewal007/binary-arm64/Packages
+ c15b9ebe05b92e3c9ae3c3b7b78bc35fe01d6c5b              366 main/a/armangrewal007/binary-arm64/Packages.gz
+SHA256:
+ 6d92d2508b7472d9f431cf4828ad9dbc8a4388863c50505a6cd9eeda25bb85b4               38 Release
+ c6f9a2e0ed72e6c9ba1babb917197f09ac3558863749c0143a2a4fb1fc5aafcb              505 main/a/armangrewal007/binary-amd64/Packages
+ 419be451352301c288c27af497c0fa4647d98ed7c1e42c6b48687c2be7233637              357 main/a/armangrewal007/binary-amd64/Packages.gz
+ fcd912ddfa72676b2f830f1430fd2ef557dfdce601f7185b18c4df2dc15440cd              505 main/a/armangrewal007/binary-arm64/Packages
+ 122b7a09b4c70208bb14080fca57ec570bb3fc252284c3f344d1185bb6ac300e              366 main/a/armangrewal007/binary-arm64/Packages.gz
+SHA512:
+ 8e1bbd6dc013553aaee615c3005cf0a7b92faa288c4f8bd272468f0431753644fa4a325dc088256951e6c00456a6260e59a8a6c692abbe2133152f8d12f07c90               38 Release
+ 6b2f42fc9dfb632334f78214fbf8534fb500a499d2e63e2671520d68dd1528a3af12a0b32b879f06ed2f9f90ebb0007926d0db55b52f4881ef3d85ee96479645              505 main/a/armangrewal007/binary-amd64/Packages
+ 4b747b0ba7138a9b5dc17ee8cb668081c35ad15b19c24e1b138aff70e4d0ff22510b78f109ae3f148cf175f20f1aa48aa722f39d1cf9d4cbaab5998a0950ed91              357 main/a/armangrewal007/binary-amd64/Packages.gz
+ e0be94dc979e2d62cda454d4ad78a39d14fa501ad7af2f21bb0543ec400f5ad534be5162a6f2dbf054900681fd365e773e31a65d7523c3632b3a2ef00604b5de              505 main/a/armangrewal007/binary-arm64/Packages
+ 6cd80ada4fde02b8ab69fbb22df7f5bc8fe64f3b2be0a309620d6b209a8b2058e257edc4db5651f7c3ceea28e3844947cbc658d41b5156acdbc4dc4c3db5fb32              366 main/a/armangrewal007/binary-arm64/Packages.gz
