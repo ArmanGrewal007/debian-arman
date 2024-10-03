@@ -10,14 +10,12 @@ Directory structure:
 |   `-- stable
 |       |-- Release
 |       `-- main
-|           `-- a
-|               `-- armangrewal007
-|                   |-- binary-amd64
-|                   |   |-- Packages
-|                   |   `-- Packages.gz
-|                   `-- binary-arm64
-|                       |-- Packages
-|                       `-- Packages.gz
+|           |-- binary-amd64
+|           |   |-- Packages
+|           |   `-- Packages.gz
+|           `-- binary-arm64
+|               |-- Packages
+|               `-- Packages.gz
 `-- pool
     `-- main
         `-- a
