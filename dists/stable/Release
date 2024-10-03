@@ -1,4 +1,11 @@
-Date: Thu, 03 Oct 2024 17:44:42 +0000
+Origin: YourName
+Label: YourRepoLabel
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Date: $(date -Ru)
+
 MD5Sum:
  8020ec790645cc89b1301f55a9cb5813               38 Release
  bc6f80d4efc90fecd07b6162de4d271b              505 main/a/armangrewal007/binary-amd64/Packages

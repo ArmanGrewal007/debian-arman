@@ -1,0 +1,32 @@
+Package: armangrewal007
+Architecture: amd64
+Version: 0.1.3
+Priority: optional
+Section: misc
+Maintainer: Arman Singh Grewal <armancode4u@gmail.com>
+Installed-Size: 8
+Filename: pool/main/a/armangrewal007/armangrewal007_0.1.3_amd64.deb
+Size: 1112
+MD5sum: e057a554a0facb9f771e39523768c0ed
+SHA1: f683b02acb0d5d7150596d49d098337732a4ca92
+SHA256: 99c71e8c1bdaca22ed5f96758a2ec12e0605f35563a64b555361d5a82b33b745
+SHA512: 70d98aa13799ec53ecb9bbe58f562746ff53a14a386b5f4e344d75f1ff73dcb6c2eab66adbf291f332753e1215d82031a90b8c4ba4a69bb2dba23ab220ddd153
+Description: CLI tool to display resume of Arman Singh Grewal
+ A simple CLI to display the resume.
+
+Package: armangrewal007
+Architecture: arm64
+Version: 0.1.3
+Priority: optional
+Section: misc
+Maintainer: Arman Singh Grewal <armancode4u@gmail.com>
+Installed-Size: 8
+Filename: pool/main/a/armangrewal007/armangrewal007_0.1.3_arm64.deb
+Size: 1196
+MD5sum: e75c04ca1b74301d8bc42ea3a4fb22e0
+SHA1: 2fbcb5beaface093d197ec5542319c1b76061d7b
+SHA256: df6989d1d64453b21669503231bd129a62ea6257835db36d5a7bc55c64e83ec1
+SHA512: 409cb121255a540f73613a2ba824e15d7c77b8f4b3cefb21c0718d66aa0aae8d42b62b1e926b69ed1584a6dd0e66d39b89291547b681e094a252d3b36bd851a2
+Description: CLI tool to display resume of Arman Singh Grewal
+ A simple CLI to display the resume.
+
