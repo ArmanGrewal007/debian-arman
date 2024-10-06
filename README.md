@@ -5,7 +5,7 @@
 
 Typical directory heirarchy of a debian repository: 
 
-```bash
+```ruby
 .
 |-- dists
 |   `-- stable
