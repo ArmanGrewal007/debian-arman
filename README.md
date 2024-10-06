@@ -5,7 +5,7 @@
 
 Typical directory heirarchy of a debian repository: 
 
-```java
+```bash
 .
 |-- dists
 |   `-- stable
