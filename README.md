@@ -3,8 +3,9 @@
  A debian-repo to host all my debian packages.
 
 
-Directory structure: 
-```
+Typical directory heirarchy of a debian repository: 
+
+```ruby
 .
 |-- dists
 |   `-- stable
@@ -18,8 +19,8 @@ Directory structure:
 |               `-- Packages.gz
 `-- pool
     `-- main
-        `-- a
-            `-- armangrewal007
-                |-- armangrewal007_0.1.3_amd64.deb
-                `-- armangrewal007_0.1.3_arm64.deb
+        `-- <letter>
+            `-- <package-name>
+                |-- <package-name>_<version>_<arch>.deb
+                `-- <package-name>_<version>_<arch>.deb
 ```
